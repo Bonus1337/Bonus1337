@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working as a frontend developer at the National Fund for Environmental Protection and Water Management<br>🌱 I am currently learning React and Vue<br>⚡ My passion is chess
+🌱 I am currently learning React and Vue<br>⚡ My passion is chess
 
 
 # 💻 Tech Stack:
