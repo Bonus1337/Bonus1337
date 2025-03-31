@@ -13,7 +13,7 @@ I'm a Software Developer with 5 years of experience as Web developer and current
 
 ## 🏆 TryHackMe Badge
 
-![](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=733901)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Bonus1337.png)
 
 ---
 
