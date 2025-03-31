@@ -1,6 +1,6 @@
 # Hi, I'm Maciej 👋
 
-I'm a Software Developer focusing on Cybersecurity and Python ML/Data Visualization.
+I'm a Software Developer with 5 years of experience as Web developer and current focusing on Cybersecurity and Python ML/Data Visualization.
 
 ---
 
@@ -13,7 +13,8 @@ I'm a Software Developer focusing on Cybersecurity and Python ML/Data Visualizat
 
 ## 🏆 TryHackMe Badge
 
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=733901)
+![](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=733901)
+
 ---
 
 
