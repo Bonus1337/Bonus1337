@@ -1,6 +1,7 @@
 # 💫 About Me:
-Hello! I'm Maciej, a 23-year-old Software Developer living in Poland. I'm currently immersed in learning Javascript, TypeScript and Go, striving to deepen my expertise in these. My passion for chess reflects my strategic and analytical thinking, skills that I bring to my coding projects as well.<br><br>I have contributed to various repositories, showcasing my skills in technologies like CSS3, HTML5, JavaScript, TypeScript, and more. My projects range from web applications to user interface designs, demonstrating my versatility and commitment to staying abreast of the latest industry trends.<br>
+Hello! I'm Maciej, a 25-year-old Software Developer living in Poland. I'm currently immersed in learning Javascript, TypeScript and Go, striving to deepen my expertise in these. My passion for chess reflects my strategic and analytical thinking, skills that I bring to my coding projects as well.<br><br>I have contributed to various repositories, showcasing my skills in technologies like CSS3, HTML5, JavaScript, TypeScript, and more. My projects range from web applications to user interface designs, demonstrating my versatility and commitment to staying abreast of the latest industry trends.<br>
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=733901" style='border:none;'></iframe>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/maciejszymanski2000) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szymanski-maciej1337) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/1U57171A) 
